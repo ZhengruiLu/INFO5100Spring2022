@@ -1,4 +1,4 @@
-package edu.zhengrui;
+package edu.zhengrui.q1.student;
 
 public class Box {
     private double width;

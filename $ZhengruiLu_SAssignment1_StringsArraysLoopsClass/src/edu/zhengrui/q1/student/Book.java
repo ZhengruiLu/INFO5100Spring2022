@@ -1,4 +1,4 @@
-package edu.zhengrui;
+package edu.zhengrui.q1.student;
 /*
 Question 9: Write a program to create a book class. The Book class would have following private variables
 
