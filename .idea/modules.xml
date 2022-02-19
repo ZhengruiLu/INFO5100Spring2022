@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/AnimalExamples/AnimalExamples.iml" filepath="$PROJECT_DIR$/AnimalExamples/AnimalExamples.iml" />
       <module fileurl="file://$PROJECT_DIR$/BasicDataStructures/BasicDataStructures.iml" filepath="$PROJECT_DIR$/BasicDataStructures/BasicDataStructures.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/INFO5100Spring2022.iml" filepath="$PROJECT_DIR$/.idea/INFO5100Spring2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultitonDesignPattern/MultitonDesignPattern.iml" filepath="$PROJECT_DIR$/MultitonDesignPattern/MultitonDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/SingletonDesignPattern/SingletonDesignPattern.iml" filepath="$PROJECT_DIR$/SingletonDesignPattern/SingletonDesignPattern.iml" />
     </modules>
   </component>
