@@ -18,7 +18,7 @@ public class Main {
         //Publish a message from SeattlePoliceDepartment
         publisher.setNotice(new NotifyCitizens("Detectives have arrested the suspect in this August 2021 double homicide."));
         try {
-            Thread.sleep(10);
+            Thread.sleep(10000);
         }catch (InterruptedException e){
             e.printStackTrace();
         }
