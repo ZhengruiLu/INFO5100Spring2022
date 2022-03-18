@@ -7,11 +7,18 @@
       <module fileurl="file://$PROJECT_DIR$/$ZhengruiLu_SAssignment3_PubSubDesignPattern/$ZhengruiLu_SAssignment3_PubSubDesignPattern.iml" filepath="$PROJECT_DIR$/$ZhengruiLu_SAssignment3_PubSubDesignPattern/$ZhengruiLu_SAssignment3_PubSubDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/AnimalExamples/AnimalExamples.iml" filepath="$PROJECT_DIR$/AnimalExamples/AnimalExamples.iml" />
       <module fileurl="file://$PROJECT_DIR$/BasicDataStructures/BasicDataStructures.iml" filepath="$PROJECT_DIR$/BasicDataStructures/BasicDataStructures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CracklePop/CracklePop.iml" filepath="$PROJECT_DIR$/CracklePop/CracklePop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DeadLockExample/DeadLockExample.iml" filepath="$PROJECT_DIR$/DeadLockExample/DeadLockExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DeepCopyVsShallowCopy/DeepCopyVsShallowCopy.iml" filepath="$PROJECT_DIR$/DeepCopyVsShallowCopy/DeepCopyVsShallowCopy.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/INFO5100Spring2022.iml" filepath="$PROJECT_DIR$/.idea/INFO5100Spring2022.iml" />
       <module fileurl="file://$PROJECT_DIR$/MultitonDesignPattern/MultitonDesignPattern.iml" filepath="$PROJECT_DIR$/MultitonDesignPattern/MultitonDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticePubSub/PracticePubSub.iml" filepath="$PROJECT_DIR$/PracticePubSub/PracticePubSub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProducerConsumer/ProducerConsumer.iml" filepath="$PROJECT_DIR$/ProducerConsumer/ProducerConsumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Quiz1/Quiz1.iml" filepath="$PROJECT_DIR$/Quiz1/Quiz1.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleThreadExample/SimpleThreadExample.iml" filepath="$PROJECT_DIR$/SimpleThreadExample/SimpleThreadExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/SingletonDesignPattern/SingletonDesignPattern.iml" filepath="$PROJECT_DIR$/SingletonDesignPattern/SingletonDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TemplatesExample/TemplatesExample.iml" filepath="$PROJECT_DIR$/TemplatesExample/TemplatesExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadSafeQueue/ThreadSafeQueue.iml" filepath="$PROJECT_DIR$/ThreadSafeQueue/ThreadSafeQueue.iml" />
     </modules>
   </component>
 </project>

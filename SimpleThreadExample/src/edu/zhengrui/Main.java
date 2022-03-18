@@ -3,11 +3,11 @@ package edu.zhengrui;
 public class Main {
     public static void main(String[] args){
 //        printFunction();
-        Thread arr = new Thread(5);
+//        Thread arr = new Thread(5);
 
-        for (int i = 0; i < arr.length; i++) {
-
-        }
+//        for (int i = 0; i < arr.length; i++) {
+//
+//        }
 
         for (int i = 0; i < 100; i++) {
             Thread.currentThread().getName();

@@ -13,24 +13,29 @@ public class Camera {
     private Camera(){}
     private static Camera _instance;
     private static Object obj = new Object();
-    private String cameraName = "";
-
+    private String name = "";
     public static Camera getInstance(){
-        if (_instance == null){//check again?
-            synchronized (obj){//lock: only one person can enter
-                if (_instance == null){
-                    _instance = new Camera();
-                }
-            }
+//        if (_instance == null) {
+//            synchronized (obj){
+//                if (_instance == null){
+//                    _instance = new Camera();
+//                }
+//            }
+//        }
+
+        if (_instance == null){
+            _instance = new Camera();
         }
+
         return _instance;
     }
 
-    public String getCameraName() {
-        return cameraName;
+    public void setCameraName(String name){
+        this.name = name;
     }
 
-    public void setCameraName(String cameraName) {
-        this.cameraName = cameraName;
+    public String getCameraName(){
+        return this.name;
     }
+
 }
