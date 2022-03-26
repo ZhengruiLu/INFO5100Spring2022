@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/$ZhengruiLu_$Mid-term/$ZhengruiLu_$Mid-term.iml" filepath="$PROJECT_DIR$/$ZhengruiLu_$Mid-term/$ZhengruiLu_$Mid-term.iml" />
       <module fileurl="file://$PROJECT_DIR$/$ZhengruiLu_SAssignment1_StringsArraysLoopsClass/$ZhengruiLu_SAssignment1_StringsArraysLoopsClass.iml" filepath="$PROJECT_DIR$/$ZhengruiLu_SAssignment1_StringsArraysLoopsClass/$ZhengruiLu_SAssignment1_StringsArraysLoopsClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/$ZhengruiLu_SAssignment2_ClassAndComparators/$ZhengruiLu_SAssignment2_ClassAndComparators.iml" filepath="$PROJECT_DIR$/$ZhengruiLu_SAssignment2_ClassAndComparators/$ZhengruiLu_SAssignment2_ClassAndComparators.iml" />
       <module fileurl="file://$PROJECT_DIR$/$ZhengruiLu_SAssignment3_PubSubDesignPattern/$ZhengruiLu_SAssignment3_PubSubDesignPattern.iml" filepath="$PROJECT_DIR$/$ZhengruiLu_SAssignment3_PubSubDesignPattern/$ZhengruiLu_SAssignment3_PubSubDesignPattern.iml" />
@@ -14,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/MultitonDesignPattern/MultitonDesignPattern.iml" filepath="$PROJECT_DIR$/MultitonDesignPattern/MultitonDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/PracticePubSub/PracticePubSub.iml" filepath="$PROJECT_DIR$/PracticePubSub/PracticePubSub.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProducerConsumer/ProducerConsumer.iml" filepath="$PROJECT_DIR$/ProducerConsumer/ProducerConsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/$ZhengruiLu_$Mid-term/Q1.iml" filepath="$PROJECT_DIR$/$ZhengruiLu_$Mid-term/Q1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Quiz1/Quiz1.iml" filepath="$PROJECT_DIR$/Quiz1/Quiz1.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleThreadExample/SimpleThreadExample.iml" filepath="$PROJECT_DIR$/SimpleThreadExample/SimpleThreadExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/SingletonDesignPattern/SingletonDesignPattern.iml" filepath="$PROJECT_DIR$/SingletonDesignPattern/SingletonDesignPattern.iml" />

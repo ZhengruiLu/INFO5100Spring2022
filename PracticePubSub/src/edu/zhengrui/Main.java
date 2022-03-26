@@ -2,35 +2,17 @@ package edu.zhengrui;
 
 public class Main {
     public static void main(String[] args) {
-        SeattlePoliceDepartment publisher1 = new SeattlePoliceDepartment("SeattlePoliceDept");
+        Professor p1 = new Professor("Ashish", 30);
+        Student s1 = new Student("Yuhan", 18);
+        Student s2 = new Student("Zhengrui", 19);
 
-        Person p1 = new Person("Linda", 8);
-        Person p2 = new Person("Alice", 16);
-        Person p3 = new Person("Bride", 80);
-        Person p4 = new Person("Zoey", 25);
+        s1.subscribe(p1);
+        s2.subscribe(p1);
 
-        p1.subscribe(publisher1);
-        p2.subscribe(publisher1);
-        p3.subscribe(publisher1);
-        p4.subscribe(publisher1);
+        p1.giveQuiz("Coding test");
 
-        publisher1.publishNotification(new NotifyCitizens("Be careful!"));
-
-        try{
-            Thread.sleep(10000);
-        }catch (InterruptedException e){
-            e.printStackTrace();
-        }
-
-        p2.unsubscribe(publisher1);
-
-        try{
-            Thread.sleep(10000);
-        }catch (InterruptedException e){
-            e.printStackTrace();
-        }
-        publisher1.publishNotification(new NotifyCitizens("Take care!"));
-
+        s1.unsubscribe(p1);
+        p1.giveQuiz("Coding test 2");
     }
 
 

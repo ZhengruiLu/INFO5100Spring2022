@@ -6,19 +6,16 @@ public class Animal {
     private String name;
     private Date birthDate;
 
-    public Animal(String name, Date birthDate){
+    Animal(String name, Date birthDate){
         this.name = name;
         this.birthDate = birthDate;
     }
 
-    public void eat(){
-        System.out.println("I'm eating");
+    public void speaking(){
+        System.out.println(this.getClass() + ": " + this.getName() + " is speaking");
     }
 
-    public void move(){
-        System.out.println("I'm moving");
-    }
-    public void breathe(){
-        System.out.println("I'm breathing");
+    public String getName(){
+        return this.name;
     }
 }

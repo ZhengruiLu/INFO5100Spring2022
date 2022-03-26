@@ -2,17 +2,16 @@ package edu.zhengrui;
 
 public class Main {
     public static void main(String[] args){
-        Camera cam1 = Camera.getInstance();
-        Camera cam2 = Camera.getInstance();
+        Camera c1 = Camera.getInstance();
+        c1.setName("c1");
 
-        cam1.setCameraName("Camera 1");
-        System.out.println(cam1.getCameraName());
-        System.out.println(cam2.getCameraName());
+        Camera c2 = Camera.getInstance();
+        System.out.println(c1.getName());
+        System.out.println(c2.getName());
 
-        cam2.setCameraName("Camera 2");
-        System.out.println(cam1.getCameraName());
-        System.out.println(cam2.getCameraName());
-
+        c2.setName("c2");
+        System.out.println(c1.getName());
+        System.out.println(c2.getName());
 
     }
 }

@@ -1,33 +1,21 @@
 package edu.zhengrui;
 
 public class Main {
-
     public static void main(String[] args) {
-        Department software = new Department("Software", 1);
-        Employee sample = new Employee();
-        sample.printEmployeeInfo();
-        //shallow copy
-//        Employee shallowCopy = sample;
-//        shallowCopy.setName("Yuhan");
-//        sample.printEmployeeInfo();
-//        shallowCopy.printEmployeeInfo();
+        Employee sample = new Employee("Sample", 20);
+        sample.printInfo();
+        Employee shallowCopy = sample;
 
-        //deep copy
-        Employee ashish = new Employee(sample);
-//        ashish.printEmployeeInfo();
+        shallowCopy.setName("yuhan");
+        shallowCopy.printInfo();
+        sample.printInfo();
 
-        ashish.setName("Ashish");
-        ashish.setId(001);
-        ashish.printEmployeeInfo();
-        sample.printEmployeeInfo();
+        Employee deepCopy = new Employee(sample);
+        deepCopy.printInfo();
 
-        Employee mark = new Employee(sample);
-        mark.setName("Mark");
-        mark.setId(002);
-
-//        sample.printEmployeeInfo();
-//        ashish.printEmployeeInfo();
-//        mark.printEmployeeInfo();
+        deepCopy.setName("Ashish");
+        deepCopy.printInfo();
+        sample.printInfo();
     }
 
 }
