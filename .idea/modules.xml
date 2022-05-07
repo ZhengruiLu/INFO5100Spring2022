@@ -2,16 +2,20 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/$ZhengruiLu_$Final/$ZhengruiLu_$Final.iml" filepath="$PROJECT_DIR$/$ZhengruiLu_$Final/$ZhengruiLu_$Final.iml" />
       <module fileurl="file://$PROJECT_DIR$/$ZhengruiLu_$Mid-term/$ZhengruiLu_$Mid-term.iml" filepath="$PROJECT_DIR$/$ZhengruiLu_$Mid-term/$ZhengruiLu_$Mid-term.iml" />
       <module fileurl="file://$PROJECT_DIR$/$ZhengruiLu_SAssignment1_StringsArraysLoopsClass/$ZhengruiLu_SAssignment1_StringsArraysLoopsClass.iml" filepath="$PROJECT_DIR$/$ZhengruiLu_SAssignment1_StringsArraysLoopsClass/$ZhengruiLu_SAssignment1_StringsArraysLoopsClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/$ZhengruiLu_SAssignment2_ClassAndComparators/$ZhengruiLu_SAssignment2_ClassAndComparators.iml" filepath="$PROJECT_DIR$/$ZhengruiLu_SAssignment2_ClassAndComparators/$ZhengruiLu_SAssignment2_ClassAndComparators.iml" />
       <module fileurl="file://$PROJECT_DIR$/$ZhengruiLu_SAssignment3_PubSubDesignPattern/$ZhengruiLu_SAssignment3_PubSubDesignPattern.iml" filepath="$PROJECT_DIR$/$ZhengruiLu_SAssignment3_PubSubDesignPattern/$ZhengruiLu_SAssignment3_PubSubDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/$ZhengruiLu_SAssignment4_ThreadSafeQueue/$ZhengruiLu_SAssignment4_ConcurrentQueue.iml" filepath="$PROJECT_DIR$/$ZhengruiLu_SAssignment4_ThreadSafeQueue/$ZhengruiLu_SAssignment4_ConcurrentQueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/AnimalExamples/AnimalExamples.iml" filepath="$PROJECT_DIR$/AnimalExamples/AnimalExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AnonymousFunctions/AnonymousFunctions.iml" filepath="$PROJECT_DIR$/AnonymousFunctions/AnonymousFunctions.iml" />
       <module fileurl="file://$PROJECT_DIR$/BasicDataStructures/BasicDataStructures.iml" filepath="$PROJECT_DIR$/BasicDataStructures/BasicDataStructures.iml" />
       <module fileurl="file://$PROJECT_DIR$/CracklePop/CracklePop.iml" filepath="$PROJECT_DIR$/CracklePop/CracklePop.iml" />
       <module fileurl="file://$PROJECT_DIR$/DeadLockExample/DeadLockExample.iml" filepath="$PROJECT_DIR$/DeadLockExample/DeadLockExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/DeepCopyVsShallowCopy/DeepCopyVsShallowCopy.iml" filepath="$PROJECT_DIR$/DeepCopyVsShallowCopy/DeepCopyVsShallowCopy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExceptionExample/ExceptionExample.iml" filepath="$PROJECT_DIR$/ExceptionExample/ExceptionExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FunctionsExample/FunctionsExample.iml" filepath="$PROJECT_DIR$/FunctionsExample/FunctionsExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/INFO5100Spring2022.iml" filepath="$PROJECT_DIR$/.idea/INFO5100Spring2022.iml" />
       <module fileurl="file://$PROJECT_DIR$/MultitonDesignPattern/MultitonDesignPattern.iml" filepath="$PROJECT_DIR$/MultitonDesignPattern/MultitonDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/PracticePubSub/PracticePubSub.iml" filepath="$PROJECT_DIR$/PracticePubSub/PracticePubSub.iml" />
